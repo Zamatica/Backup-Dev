@@ -1,7 +1,7 @@
 {
   "vars": {
-    "editor_name": "pycharm.exe",
-    "backup_max": 10,
+    "editor_name": "no_editor",
+    "backup_max": 5,
     "log_max_size": 1000000,
     "editor_backup_time": 50,
     "no_editor_backup_time": 2700
@@ -9,5 +9,5 @@
   "dirs": [
     "no_run"
   ],
-  "backup_count": 6
+  "backup_count": 0
 }
